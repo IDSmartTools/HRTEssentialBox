@@ -1,0 +1,2 @@
+# HRTEssentialBox
+InDesign Plugin
