@@ -4,8 +4,6 @@
 
 **Important Notice:**
 
-**Certain plugin features/effects may be lost after saving as or exporting to an IDML file.**
-
 **Documents created with this plugin may lose their effects when opened in an InDesign environment where this plugin is not installed. Please double-check your work before exporting or sharing.**
 
 **Feedback & Support: If you encounter any issues or bugs, please feel free to report them via the contact details located at the bottom of the plugin interface.**
@@ -19,8 +17,6 @@
 **版本兼容：插件支持 Adobe InDesign 2020 及更新版本。**
 
 **注意事项（重要提醒）：**
-
-**部分插件功能在保存/导出为 IDML 格式后，相关效果可能会丢失。**
 
 **使用本插件制作的效果，在未安装本插件的 InDesign 中打开时，可能会丢失效果。请在输出或交付前做好确认。**
 
